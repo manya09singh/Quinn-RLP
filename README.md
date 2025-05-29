@@ -4,3 +4,6 @@ The code for a single building RLPs is in Intra building clusters
 The code for mixed building RLPs is in Inter building clusters
 
 
+This work emanates from research supported by the ERA-NET Cofund grant under the CHIST-ERA IV Joint Call on Novel Computational Approaches for Environmental Sustainability
+(CES) project “Supporting Energy Communities-Operational Research and Energy Analytics (SEC-OREA).
+
